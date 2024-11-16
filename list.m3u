@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title=".",TV Justiça HD
-https://ythls-v3.onrender.com/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+#EXTINF:-1 tvg-id="TV Câmara HD" group-title=".",TV Câmara HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="Play TV HD" group-title=".",Play TV HD
+https://isaocorp.cloudecast.com/playtv/tracks-a1/index.fmp4.m3u8
